@@ -1,4 +1,6 @@
 ### Hi there 👋
+You have reached the GitHub page of Vaibhav Karve. He is a grad student at the UofI. You can get more information by browsing any of the repositories below or visiting his website at [vaibhavkarve.github.io](https://vaibhavkarve.github.io "vaibhavkarve.github.io").
+
 
 ![Visitor Count](https://profile-counter.glitch.me/vaibhavkarve/count.svg)
 
