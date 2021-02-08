@@ -1,8 +1,10 @@
 ### Hi there 👋
-You have reached the GitHub page of Vaibhav Karve. He is a grad student at the UofI. You can get more information by browsing any of the repositories below or visiting his website at [vaibhavkarve.github.io](https://vaibhavkarve.github.io "vaibhavkarve.github.io").
+You have reached the GitHub page of Vaibhav Karve. He is a grad student at the UofI. You can get more information (on publications, CV, teaching, talks, and random projects) by visiting his website at [vaibhavkarve.github.io](https://vaibhavkarve.github.io "vaibhavkarve.github.io").
 
-
-![Visitor Count](https://profile-counter.glitch.me/vaibhavkarve/count.svg)
+### Technologies ⚡
+- Python, Lean theorem prover, SageMath, Octave, Coq, Haskell, ELisp, bash, make
+- LaTeX, plain TeX, CoCalc, XPPaut, Docker, Emacs, git, GitHub/GitLab
+- Computational graph theory, Data science, Mathematical modelling, High-dimensional data, Machine learning and neural networks, Formal verification, Computational complexity, Algorithms 
 
 <!--
 **vaibhavkarve/vaibhavkarve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
