@@ -1,5 +1,5 @@
 ### Hi there 👋
-You have reached the GitHub page of Vaibhav Karve. He is a grad student at the UofI. You can get more information (on publications, CV, teaching, talks, and random projects) by visiting his website at [vaibhavkarve.github.io](https://vaibhavkarve.github.io "vaibhavkarve.github.io").
+You have reached the GitHub page of Vaibhav Karve. He is a Senior Data Scientist at the SimSpace Corporation. He used to be a grad student at the UofI, till he graduated with a PhD in Mathematics in 2021. You can get more information (on publications, CV, teaching, talks, and random projects) by visiting his website at [vaibhavkarve.github.io](https://vaibhavkarve.github.io "vaibhavkarve.github.io").
 
 ### Technologies ⚡
 - Python, Lean theorem prover, SageMath, Octave, Coq, Haskell, ELisp, bash, make
