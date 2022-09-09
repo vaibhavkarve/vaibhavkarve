@@ -5,6 +5,7 @@ You have reached the GitHub page of Vaibhav Karve. He is a Senior Data Scientist
 - Python, Lean theorem prover, SageMath, Octave, Coq, Haskell, ELisp, bash, make
 - LaTeX, plain TeX, CoCalc, XPPaut, Docker, Emacs, git, GitHub/GitLab
 - Computational graph theory, Data science, Mathematical modelling, High-dimensional data, Machine learning and neural networks, Formal verification, Computational complexity, Algorithms 
+- Currently learning: Julia, Scheme
 
 <!--
 **vaibhavkarve/vaibhavkarve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
